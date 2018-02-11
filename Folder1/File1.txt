@@ -1,0 +1,3 @@
+This is the first file inside a folder. 
+
+We have created a folder inside a repository.
