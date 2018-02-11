@@ -1,4 +1,6 @@
 This is first file created in this repository.
 As I do not have any file to upload to this new github repository.
-This is just a sample file.
 
+Adding more lines to this text file and we will commit this updated file after we merge this branch with the master branch. We will understand github better eventually once you start working on repositories. 
+
+This file is just a sample file with some text in it. 
