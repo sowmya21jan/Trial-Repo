@@ -3,4 +3,4 @@ As I do not have any file to upload to this new github repository.
 
 Adding more lines to this text file and we will commit this updated file after we merge this branch with the master branch. We will understand github better eventually once you start working on repositories. 
 
-This file is just a sample file with some text in it. 
+Adding this new line to have impact on commit. 
